@@ -9,17 +9,22 @@ It has 3 functions:
 To run this, first create a `.env` file in root directory and store server ip adress in `HOST_IP` in client device and openweathermap api key as `API_KEY` in server device, then
 
 On windows:
+
 ```python client.py```
 
 On unix based devices:
+
 ```python3 client.py```
 
 run the above command on client devices
+
 And on server devices, run the command shown below
 
 On windows:
+
 ```python server.py```
 
 On unix based devices:
+
 ```python3 server.py```
 
